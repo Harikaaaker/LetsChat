@@ -7,7 +7,7 @@ It has been deployed on http://letschat-engage.herokuapp.com/
 
 ### Design Documentation
 
-
+https://github.com/Harikaaaker/LetsChat/blob/main/documentation.md
 
 ### Before you Start
 
@@ -22,7 +22,7 @@ To run the code on your machine, you need to:
 Run the following commands to get started
 
 ```
-git clone 
+git clone https://github.com/Harikaaaker/LetsChat
 npm ci
 cd src
 node app.js
